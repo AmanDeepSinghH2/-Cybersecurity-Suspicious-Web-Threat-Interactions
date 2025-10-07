@@ -1,0 +1,6 @@
+3. Global_Cybersecurity_Threats_2015-2024.xlsx
+⦁	Purpose: Macro-level dataset for threat trend analysis.
+Usage:
+⦁	Features: Country , Year , Attack Type , Number of Affected Users, Target Industry, Financial Loss
+⦁	No direct binary label → use for clustering (K-Means, Hierarchical) and visual analytics.
+⦁	Helps show global patterns of attacks and validate ML model insights.

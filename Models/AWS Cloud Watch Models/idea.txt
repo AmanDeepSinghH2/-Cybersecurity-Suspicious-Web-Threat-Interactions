@@ -1,0 +1,6 @@
+1.	CloudWatch_Traffic_Web_Attack.xlsx
+⦁	- Purpose: Real-world AWS VPC Flow logs with suspicious traffic.
+Usage:
+⦁	- Feature engineering: bytes_in, bytes_out, protocol, dst_port, src_ip_country_code.
+⦁	- Label: observation_name (e.g., “Suspicious Web Traffic”).
+⦁	- Models: Logistic Regression, SVM, Random Forest, Isolation Forest for anomaly detection.

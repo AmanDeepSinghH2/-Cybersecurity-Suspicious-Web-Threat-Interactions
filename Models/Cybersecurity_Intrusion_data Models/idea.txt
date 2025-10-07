@@ -1,0 +1,7 @@
+2. cybersecurity_intrusion_data.xlsx
+⦁	Purpose: Structured intrusion dataset with clear attack labels.
+Usage:
+⦁	Features: network_packet_size , login_attempts , session_duration,ip_reputation_score,  failed_logins, unusual_time_access .
+⦁	Label: attack detected (0/1).
+⦁	Models: Logistic Regression, KNN, Decision Tree, Random Forest, Neural Networks.
+⦁	Great for supervised classification.
